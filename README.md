@@ -38,7 +38,7 @@ Pinned repos on my profile update as I publish more! ✨
 
 ### 📫 Let’s Connect  
 <p align="left">
-  <a href="https://www.linkedin.com/in/USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/rebeccaamador" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
