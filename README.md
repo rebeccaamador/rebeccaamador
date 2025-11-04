@@ -28,14 +28,6 @@ Pinned repos on my profile update as I publish more! ✨
 
 🌸 — — — — — — — — — — — — — — — — — — — — — — — 🌸
 
-### ✨ A Little More About Me  
-- 🎀 I believe analytics should be **useful and beautiful**
-- 🚀 I turn messy data into business power-ups
-- 🐶 Proud dog mama to Ajax, the cutest Fall boy 🎃
-- ✈️ Always planning a trip (or three)
-
-🌸 — — — — — — — — — — — — — — — — — — — — — — — 🌸
-
 ### 📫 Let’s Connect  
 <p align="left">
   <a href="https://www.linkedin.com/in/rebeccaamador" target="_blank">
