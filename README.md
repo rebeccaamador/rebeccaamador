@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Snowflake-❄️-ff8dc7">
   <img src="https://img.shields.io/badge/dbt-🧱-a66cff">
   <img src="https://img.shields.io/badge/Airflow-🌀-6be6ff">
-  <img src="https://img.shields.io/badge/Kafka-📡-ffc0cb">
   <img src="https://img.shields.io/badge/Python-🐍-f7e7ff">
   <img src="https://img.shields.io/badge/GitHub-💻-a6c3ff">
 </p>
