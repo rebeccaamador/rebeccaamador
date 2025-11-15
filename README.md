@@ -4,7 +4,7 @@
 ✨ Automating the boring parts so we can focus on the fun stuff  
 💅 Obsessed with clean joins & even cleaner UI  
 
-🌸 — — — — — — — — — — — — — — — — — — 🌸
+🌸 — — — — — — — — — — — — — — — — — 🌸
 
 ### My Data Engineer Stack  
 <p align="left">
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/GitHub-💻-a6c3ff">
 </p>
 
-🌸 — — — — — — — — — — — — — — — — — — 🌸
+🌸 — — — — — — — — — — — — — — — — — 🌸
 
 ### 📫 Let’s Connect  
 <p align="left">
