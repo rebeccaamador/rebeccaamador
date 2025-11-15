@@ -1,5 +1,4 @@
-### Hey, I’m Rebecca 👋  
-**Tech Girly ✨ • Data Engineer 👩🏼‍💻 • Pipeline Perfectionist ⚙️**  
+###  
 
 💻 Building modern data pipelines (Snowflake, dbt, Airflow, Kafka)  
 ✨ Automating the boring parts so we can focus on the fun stuff  
@@ -7,7 +6,7 @@
 
 🌸 — — — — — — — — — — — — — — — — — — — — — — — 🌸
 
-### 💕 My Data Engineer Stack  
+### My Data Engineer Stack  
 <p align="left">
   <img src="https://img.shields.io/badge/Snowflake-❄️-ff8dc7">
   <img src="https://img.shields.io/badge/dbt-🧱-a66cff">
@@ -16,15 +15,6 @@
   <img src="https://img.shields.io/badge/Python-🐍-f7e7ff">
   <img src="https://img.shields.io/badge/GitHub-💻-a6c3ff">
 </p>
-
-🌸 — — — — — — — — — — — — — — — — — — — — — — — 🌸
-
-### 📊 Featured Projects  
-Here are a few of the things I love building:
-
-- 🌀 **Pipeline Orchestration** (Airflow, scheduling, lineage, all the flowy things 💁🏼‍♀️) 
-
-Pinned repos on my profile update as I publish more! ✨
 
 🌸 — — — — — — — — — — — — — — — — — — — — — — — 🌸
 
