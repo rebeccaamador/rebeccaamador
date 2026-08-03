@@ -1,25 +1,9 @@
-###  
+# Hi, I'm Rebecca
 
-💻 Building modern data pipelines (Snowflake, dbt, Airflow, Kafka)  
-✨ Automating the boring parts so we can focus on the fun stuff  
-💅 Obsessed with clean joins & even cleaner UI  
+I'm a data engineer focused on building reliable, scalable data platforms for analytics, automation, and AI.
 
+My path from business intelligence to data architecture keeps me grounded in both how data moves and how people use it. I care about clear systems, dependable pipelines, and data products teams can understand and trust.
 
-### My Data Engineer Stack  
-<p align="left">
-  <img src="https://img.shields.io/badge/Snowflake-❄️-ff8dc7">
-  <img src="https://img.shields.io/badge/dbt-🧱-a66cff">
-  <img src="https://img.shields.io/badge/Airflow-🌀-6be6ff">
-  <img src="https://img.shields.io/badge/Python-🐍-f7e7ff">
-  <img src="https://img.shields.io/badge/GitHub-💻-a6c3ff">
-</p>
+**Stack:** Snowflake · dbt · Python · SQL · Databricks · Airflow · Kafka
 
-
-### 📫 Let’s Connect  
-<p align="left">
-  <a href="https://www.linkedin.com/in/rebeccaamador" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
-
-<!-- More socials can be added here once ready -->
+[Portfolio](https://www.rebeccamador.dev) · [LinkedIn](https://www.linkedin.com/in/rebeccaamador)
